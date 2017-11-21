@@ -1,5 +1,5 @@
 const PAGE_ACCESS_TOKEN = 'EAAHlZBhj45pIBAGkKYj3935WvGXQWIMmw0qZAgBWdCNNFuHMFVIQ0rBJHYzrfJurO8TnTEtxZCi0LTqG6iV07gfEfILAEvOfkkGp8qZAp7ePBwc75uZBJy3Sb7USBBt6YUIIomZB3DhBDZCivP5zpQus5BxdfcT9TJCad6HBw2s7AZDZD';
-const API_AI_TOKEN = '0c34d422c65e402b83825b6cdf436264';
+const API_AI_TOKEN = 'e323adbe775e4efc9f1952c690d52ebe';
 const apiAiClient = require('apiai')(API_AI_TOKEN);
 
 const request = require('request');
